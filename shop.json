@@ -21,7 +21,7 @@
     "vendor_code": "333",
     "description": " Эжена Делакруа, 1830",
     "price": 5462828,
-    "img": "liberty.jpg"
+    "img": "liberty.JPG"
   },
   {
     "id": "4",
@@ -38,7 +38,7 @@
     "vendor_code": "4445e",
     "description": "Жак Луи Давид, 1799",
     "price": 400,
-    "img": "sabines.jpg"
+    "img": "sabines.JPG"
   },
   {
     "id": "6",
